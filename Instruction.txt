@@ -1,0 +1,11 @@
+----------------Notes----------------
+1)Target Drive Path = D:\workshop
+2)Backup Path = None
+3)MessageBox = Done
+4)MessageBox Status = Activated
+5)Error Superssor = Deactivated
+6)Admin Permission = Not Required
+7)Log = %UserName%.txt
+8)Log Security= None
+9)Data Security= Activated nano Encryption
+10) Self encrption = Delt with
